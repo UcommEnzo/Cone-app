@@ -1,0 +1,5 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://Talkin:1234EnzO1414@cluster0.ksdox.mongodb.net/ConeProject?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
